@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "django-formtools",
+  "versions": [
+    {
+      "commit": "472d9887befed3366906cbcfd680b0010b69fa34",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:35:52.177640+00:00"
+    }
+  ]
+}
